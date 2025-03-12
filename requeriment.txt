@@ -1,0 +1,16 @@
+PS C:\Users\nicot\Road-Map> python --version
+Python 3.13.1
+PS C:\Users\nicot\Road-Map> node --version
+v22.13.1
+PS C:\Users\nicot\Road-Map> 
+----------------
+pip install virtualenv
+
+-----------------
+python.exe -m pip install --upgrade pip
+
+-----------
+./venv/Scripts/activate
+----------
+pip install django
+pip install djangorestframework
